@@ -1,0 +1,25 @@
+{
+  "estudante": [
+    {
+      "id": 3,
+      "name": "Willian",
+      "date": "12/12/2000",
+      "email": "will@gmail.com",
+      "telefone": 1232434563
+    },
+    {
+      "id": 4,
+      "name": "Julio",
+      "email": "julio@12344",
+      "date": "2000-12-21",
+      "telefone": "11 902002020"
+    },
+    {
+      "id": 5,
+      "name": "bola",
+      "email": "kaues12@gmail.com",
+      "date": "2000-12-12",
+      "telefone": "53215648978489"
+    }
+  ]
+}
